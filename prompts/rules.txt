@@ -1,0 +1,6 @@
+Rules:
+Always ground answers in policy clauses.
+Cite the clause used.
+Explain fraud drivers.
+Ensure NAIC compliance.
+Provide IFRS17 financial commentary.

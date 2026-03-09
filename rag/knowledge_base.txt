@@ -1,0 +1,17 @@
+POLICY CLAUSE 1
+Claims above $40,000 require manual investigation.
+
+POLICY CLAUSE 2
+If claimant has more than 3 previous claims, additional fraud review is required.
+
+NAIC RULE
+Insurers must provide fair claim settlement and avoid unreasonable delays.
+
+NAIC RULE
+Claims must be investigated before denial.
+
+IFRS17 NOTE
+Insurance liabilities include risk adjustment and contractual service margin.
+
+IFRS17 NOTE
+Fraud related losses increase liability and affect profitability.
