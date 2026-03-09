@@ -8,8 +8,6 @@ __pycache__/
 # virtual environment
 venv/
 
-# model files
-*.pkl
 
 # streamlit cache
 .streamlit/
