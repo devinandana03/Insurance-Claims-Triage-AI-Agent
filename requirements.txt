@@ -4,6 +4,6 @@ numpy
 scikit-learn
 faiss-cpu
 sentence-transformers
-requests
+groq
 python-dotenv
 joblib
